@@ -1,0 +1,157 @@
+aside.gdbar {
+  height: 97px;
+  width: 548px;
+}
+
+aside.gdbar.right {
+  z-index:100;
+}
+
+aside.gdbar img {
+    height:85px;
+    width:408px;
+}
+
+pre.questions {
+      font-size:1.6em;
+      padding-top:60px;
+      margin-top:50px;
+      left:4px;
+      height:140px;
+      text-align:center;
+}
+
+slides > slide {
+  z-index: 0;
+}
+
+slides > slide.title-slide:after {
+  background: url(../../images/SCLL-bg.png) no-repeat 648px 0px;
+  opacity: 0.3;
+  height: 100%;
+  bottom: 0;
+  right: 0px;
+  width: 100%;
+  left: auto;
+  z-index: -1;
+}
+slides > slide.segue:after {
+  content: '';
+  position: absolute;
+  background: url(../../images/SCLL-bg.png) #fff no-repeat 648px 0px;
+  opacity: 0.1;
+  height: 100%;
+  bottom: 0;
+  right: 0px;
+  width: 100%;
+  left: auto;
+  z-index: -1;
+}
+slides > slide.title-slide > *,
+slides > slide.segue > * {
+  z-index: 10;
+}
+
+.title-slide hgroup h1,
+.title-slide hgroup h2,
+.title-slide hgroup h3 {
+  line-height: 1.0;
+}
+.title-slide hgroup h2 {
+  margin-top: 20px;
+}
+
+slides > slide:not(.nobackground):before {
+  bottom: 20px;
+  left: 60px;
+  background: url(../../images/DFKI-30.png) no-repeat 0 50%;
+  -webkit-background-size: 140px 30px;
+  -moz-background-size: 140px 30px;
+  -o-background-size: 140px 30px;
+  background-size: 140px 30px;
+  padding-left: 40px;
+  height: 30px;
+  width:100px;
+}
+.segue.nobackground article h2 {
+  color: #797979;
+}
+.thank-you-slide.segue.nobackground article h2 {
+  color: white;
+}
+.thank-you-slide {
+  background: #3668A0 !important;
+  color: white;
+}
+.thank-you-slide aside.gdbar {
+  background: white;
+}
+
+table th {
+  color: white;
+  font-size: 18px;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(40%, #3668A0), color-stop(80%, #3668A0)) no-repeat;
+  background: -webkit-linear-gradient(top, #3668A0 40%, #3668A0 80%) no-repeat;
+  background: -moz-linear-gradient(top, #3668A0 40%, #3668A0 80%) no-repeat;
+  background: -o-linear-gradient(top, #3668A0 40%, #3668A0 80%) no-repeat;
+  background: linear-gradient(top, #3668A0 40%, #3668A0 80%) no-repeat;
+}
+
+.dfki-orange {
+  color: #DE7C0A;
+}
+.dfki-blue {
+  color: #3668A0;
+}
+
+.source {
+	bottom: 50px;
+}
+
+footer.white a {
+	color: #fff !important;
+}
+
+slides > slide > article:only-child > iframe {
+	height: 90% !important;
+}
+
+::selection {
+  background-color: #3668A0;
+}
+
+h2 a {
+  color: #58585a;
+}
+
+h2 a:hover {
+  color: #3668A0;
+}
+
+code small {
+  font-size:75%;
+}
+
+slides > slide.dark {
+  background: #58585a !important;
+}
+
+.fill.stretch {
+  background-size: contain;
+  background-position: center;
+}
+
+aside.note {
+  color: #000;
+}
+
+iframe + footer {
+  color: #b1b3b4;
+  font-size: 16px;
+  font-style: italic;
+  text-align: right;
+}
+
+em {
+  font-style: italic;
+}
