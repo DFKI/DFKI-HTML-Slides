@@ -1,12 +1,12 @@
 # HTML5 Slides Template for DFKI
 
-This is an adaption of the [io-2012-slides](https://code.google.com/p/io-2012-slides/), originally developed by Google (based on the trunk code from February 16, 2014), following the corporate identity of *Deutsches Forschungszentrum für Künstliche Intelligenz GmbH* (DFKI – German Research Center of Artificial Intelligence). An online demo can be found [here](https://www.dfki.uni-kl.de/~nogatz/DFKI-HTML-Slides/index.html).
+This is an adaption of the [io-2012-slides](https://code.google.com/p/io-2012-slides/), originally developed by Google (based on the trunk code from February 16, 2014), following the corporate identity of *Deutsches Forschungszentrum für Künstliche Intelligenz GmbH* (DFKI – German Research Center of Artificial Intelligence). An online demo can be found [here](https://DFKI.github.io/DFKI-HTML-Slides/index.html).
 
-[![Screenshot](images/screenshot.png)](http://fnogatz.github.io/dfki-slides-template/index.html)
+[![Screenshot](images/screenshot.png)](https://DFKI.github.io/DFKI-HTML-Slides/index.html)
 
-## DFKI logos
+## DFKI Logos
 
-The template contains the [logo and seal](http://www.uni-wuerzburg.de/fuer/beschaeftigte/corporate_design_vorlagen/logos/) of the *University of Würzburg*, which are neither part of this project nor covered by its license.
+The template contains the [logo](https://www.dfki.de/web/news-media/presse/presse-material) of the DFKI, which are neither part of this project nor covered by its license.
 
 For general instructions on how to use the template see the text below or watch this [video](https://www.youtube.com/watch?v=WRvECXyWj80).
 
