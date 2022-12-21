@@ -1,8 +1,8 @@
 # HTML5 Slides Template for DFKI
 
-This is an adaption of the [io-2012-slides](https://code.google.com/p/io-2012-slides/), originally developed by Google (based on the trunk code from February 16, 2014), following the corporate identity of *Deutsches Forschungszentrum für Künstliche Intelligenz GmbH* (DFKI – German Research Center of Artificial Intelligence). An online demo can be found [here](https://DFKI.github.io/DFKI-HTML-Slides/index.html).
+This is an adaption of the [io-2012-slides](https://code.google.com/p/io-2012-slides/), originally developed by Google (based on the trunk code from February 16, 2014), following the corporate identity of *Deutsches Forschungszentrum für Künstliche Intelligenz GmbH* (DFKI – German Research Center of Artificial Intelligence). An online demo can be found [here](https://dfki.github.io/DFKI-HTML-Slides/index.html).
 
-[![Screenshot](images/screenshot.png)](https://DFKI.github.io/DFKI-HTML-Slides/index.html)
+[![Screenshot](images/screenshot.png)](https://dfki.github.io/DFKI-HTML-Slides/index.html)
 
 ## DFKI Logos
 
